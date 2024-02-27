@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.container-fluid{
+	max-width:94%;
+}
+
+table th, td{
+	border-collapse:collapse;
+	font-size:12px;
+}
